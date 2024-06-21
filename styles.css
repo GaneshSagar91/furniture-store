@@ -81,7 +81,7 @@ a{
     padding: 50px 8%;
 
     & .products{
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: 1fr;
 
     }
   }
